@@ -3,7 +3,7 @@
 PySide6 é um conjunto de bindings Python para o framework Qt, que permite o desenvolvimento de interfaces gráficas de usuário (GUIs) robustas e cross-platform. Com PySide6, desenvolvedores podem criar aplicações desktop que funcionam em sistemas operacionais como Windows, macOS e Linux utilizando a linguagem Python. O PySide6 fornece acesso completo à biblioteca Qt, oferecendo uma vasta gama de widgets e ferramentas para criar aplicações sofisticadas e responsivas.
 
 ## Sobre esta Apostila
-Esta apostila foi criada com o objetivo de guiar desenvolvedores Python na criação de aplicações GUI usando o PySide6. Baseada no livro Create GUI Applications with Python & Qt6, 5th Edition | PySide6 de Martin Fitzpatrick, a apostila oferece uma abordagem prática e direta para aprender a utilizar o PySide6 em projetos reais.
+Esta apostila está sendo criada com o objetivo de guiar desenvolvedores Python na criação de aplicações GUI usando o PySide6. Baseada no livro Create GUI Applications with Python & Qt6, 5th Edition | PySide6 de Martin Fitzpatrick, a apostila oferece uma abordagem prática e direta para aprender a utilizar o PySide6 em projetos reais.
 
 ## Objetivos da Apostila
 - Introduzir o PySide6: Apresentar os conceitos básicos e a estrutura do PySide6, explicando como configurar o ambiente de desenvolvimento e criar suas primeiras janelas e widgets.
